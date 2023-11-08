@@ -1,0 +1,1 @@
+("8.8" tarm64osx ("c24b972c16e1b4b8018e510b20fe7dad585757d9" . "9e975b893f91667861dec63fc80871cd429a0f61") #"/Users/vladandra22/Documents/UPB 2023/SEM2/PP/etapa4/etapa2.rkt" #"/Users/vladandra22/Documents/UPB 2023/SEM2/PP/etapa4/etapa3.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
